@@ -24,4 +24,4 @@ I am currently following the BSc (Hons) Data Science degree awarded by Coventry 
 
 😂 Here is a random joke that might make you laugh!
 
-![Jokes Card](https://readme-jokes.vercel.app/api?&theme=tokyonight&hide_border=true)
+![Jokes Card](https://readme-jokes.vercel.app/api?&theme=tokyonight&hideBorder)
