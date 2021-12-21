@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I am Amir Sohil, from Sri Lanka. 😀  
 I am currently following the BSc (Hons) Data Science degree awarded by Coventry University. 🎓  
 
-![Repo Stats](https://github-readme-stats.vercel.app/api?username=amirsohil&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true&hide=stars,commits)
+![Repo Stats](https://github-readme-stats.vercel.app/api?username=amirsohil&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true&hide=prs,issues,contribs)
 
 😂 Here is a random joke that might make you laugh!
 
