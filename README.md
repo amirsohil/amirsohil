@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Profile View Counter](https://komarev.com/ghpvc/?username=amirsohil)
+
+I am Amir Sohil, from Sri Lanka. 😀
