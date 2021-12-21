@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 ![Profile View Counter](https://komarev.com/ghpvc/?username=amirsohil)
 
 I am Amir Sohil, from Sri Lanka. 😀  
-I am currently following the BSc (Hons) Data Science degree awarded by Coventry University. 🎓
+I am currently following the BSc (Hons) Data Science degree awarded by Coventry University. 🎓  
+
+![Repo Stats](https://github-readme-stats.vercel.app/api?username=amirsohil&show_icons=true)
