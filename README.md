@@ -27,7 +27,7 @@ I am currently following the BSc (Hons) Data Science degree awarded by Coventry 
 <!--
 ![Repo Stats](https://github-readme-stats.vercel.app/api?username=amirsohil&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amirsohil&theme=tokyonight&hide_border=true)
--->
 Alright, here is a random joke! 😆<br>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?&theme=tokyonight&hideBorder)
+-->
