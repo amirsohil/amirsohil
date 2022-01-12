@@ -21,9 +21,14 @@ I am currently following the BSc (Hons) Data Science degree awarded by Coventry 
 <br>
 <br>
 [![LinkedIn][2.2]][2]
+[![Personal Website][3.3]][3]
 
 [2.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [2]: https://www.linkedin.com/in/amir-sohil/
+
+[3]: https://amirsohil.github.io/
+[3.3]: https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
+
 
 <br>
 <p align="center">
