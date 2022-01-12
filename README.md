@@ -22,7 +22,7 @@ I am currently following the BSc (Hons) Data Science degree awarded by Coventry 
 <br>
 You can find me on [![LinkedIn][2.2]][2].
 
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+[2.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [2]: https://www.linkedin.com/in/amir-sohil/
 
 <p align="center">
