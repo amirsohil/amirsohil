@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 I am Amir Sohil, from Sri Lanka. 😀  
 I am currently following the BSc (Hons) Data Science degree awarded by Coventry University. 🎓  
 <br>
+<br>
+You can find me on [![LinkedIn][2.2]][2].
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+[2]: https://www.linkedin.com/in/amir-sohil/
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amirsohil&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" align = "center"/>
