@@ -20,7 +20,7 @@ I am Amir Sohil, from Sri Lanka. 😀
 I am currently following the BSc (Hons) Data Science degree awarded by Coventry University. 🎓  
 <br>
 <br>
-You can find me on [![LinkedIn][2.2]][2].
+[![LinkedIn][2.2]][2]
 
 [2.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [2]: https://www.linkedin.com/in/amir-sohil/
