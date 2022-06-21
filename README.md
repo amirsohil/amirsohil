@@ -1,4 +1,4 @@
-## Hi there, welcome aboard! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">
+## Hi there, welcome aboard! 
 
 <!--
 **amirsohil/amirsohil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
