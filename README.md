@@ -32,7 +32,7 @@ I am currently following the BSc (Hons) Data Science degree awarded by Coventry 
 
 <br>
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amirsohil&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" align = "center"/>
+<!--img height="180em" src="https://github-readme-stats.vercel.app/api?username=amirsohil&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" align = "center"/-->
 <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=amirsohil&theme=tokyonight&hide_border=true" align = "center"/>
 </p>
 
