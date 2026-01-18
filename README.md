@@ -28,19 +28,3 @@ I have a First Class in BSc (Hons) Data Science, awarded by Coventry University.
 
 [3]: https://amirsohil.github.io/
 [3.3]: https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
-
-
-
-
-
-
-
-
-
-<!--
-![Repo Stats](https://github-readme-stats.vercel.app/api?username=amirsohil&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amirsohil&theme=tokyonight&hide_border=true)
-Alright, here is a random joke! 😆<br>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?&theme=tokyonight&hideBorder)
--->
